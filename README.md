@@ -11,12 +11,11 @@ My current goal stack
 - HTML, CSS, and JavaScript
 
 About Me: 
-
- • enjoy building simple but useful things.
- • I can sketch traditionally and soon to learn digital art.
- • I'm interested in creating pixel art.
- • My favorite drink is black coffee.
- • I'm always learning and improving one project at a time.
+- I enjoy building simple but useful things.
+- I can sketch traditionally and soon to learn digital art.
+- I'm interested in creating pixel art.
+- My favorite drink is black coffee.
+- I'm always learning and improving one project at a time.
 
 
 
