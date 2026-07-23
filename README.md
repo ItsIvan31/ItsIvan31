@@ -10,7 +10,8 @@ My current goal stack
 - MySQL & Spring Boot
 - HTML, CSS, and JavaScript
 
-About Me
+About Me: 
+
  • enjoy building simple but useful things.
  • I can sketch traditionally and soon to learn digital art.
  • I'm interested in creating pixel art.
