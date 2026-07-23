@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ItsIvan31/ItsIvan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan, currently an IT student from the Philippines.
 
-Here are some ideas to get you started:
+My favorite programming language is Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I upload my projects, experiments, and document my learning journey.
+
+My current goal stack
+- Java
+- MySQL & Spring Boot
+- HTML, CSS, and JavaScript
+
+About Me
+ • I enjoy building simple but useful things.
+ • I can sketch traditionally and soon to learn digital art.
+ • I'm interested in creating pixel art.
+ • My favorite drink is black coffee.
+ • I'm always learning and improving one project at a time.
